@@ -38,5 +38,6 @@ background: #8c8b8b;
 
 .meme{
     text-align: right;
+    bottom: 0;
     font-size: small; 
 }
