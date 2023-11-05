@@ -1,3 +1,8 @@
 body {
     background: #5d59599a;
 }
+
+.flexing{
+display: flex;
+background: #e0dfdf
+}
