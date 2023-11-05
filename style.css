@@ -29,3 +29,9 @@ background: #8c8b8b;
     text-align: center;
     font-style: italic;
 }
+
+.meimg{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
