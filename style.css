@@ -35,3 +35,8 @@ background: #8c8b8b;
     width: 500px;
     float: right;
 }
+
+.meme{
+    text-align: center;
+    font-size: small; 
+}
