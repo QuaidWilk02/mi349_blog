@@ -2,6 +2,10 @@ body {
     background: #5d59599a;
 }
 
+h2 {
+font-style: italic;
+}
+
 article {
     background: #9c9b9b;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
