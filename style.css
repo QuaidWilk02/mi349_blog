@@ -3,7 +3,7 @@ body {
 }
 
 #headsup{
-    font-style: italic;
+    text-align: center;
 }
 .flexing{
 display: flex;
