@@ -6,3 +6,7 @@ body {
 display: flex;
 background: #8c8b8b
 }
+
+#navi{
+    background: white;
+}
