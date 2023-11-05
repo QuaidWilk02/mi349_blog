@@ -2,6 +2,10 @@ body {
     background: #5d59599a;
 }
 
+article {
+    background: #b1afaf;
+}
+
 #headsup{
     text-align: center;
 }
