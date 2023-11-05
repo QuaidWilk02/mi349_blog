@@ -7,9 +7,12 @@ article {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+
+
 #headsup{
     text-align: center;
 }
+
 .flexing{
 display: flex;
 background: #8c8b8b;
@@ -39,4 +42,18 @@ background: #8c8b8b;
 .meme{
     text-align: center;
     font-size: small; 
+}
+
+.wpic{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-left: 20px;
+}
+
+.cpic{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 20px;
 }
