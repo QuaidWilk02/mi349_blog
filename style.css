@@ -12,6 +12,8 @@ background: #8c8b8b;
 
 .nav{
     background: #8c8b8b;
+    position: sticky;
+    top: 0;
 }
 
 .conni{
