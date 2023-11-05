@@ -44,3 +44,16 @@ background: #8c8b8b;
     font-size: small; 
 }
 
+.wpic{
+    height: 300px;
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+}
+
+.cpic{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
