@@ -69,7 +69,7 @@ background: #8c8b8b;
     margin-right: 20px;
 }
 
-a[href*="ome"]{
+a[href*="dex"]{
 font-style: italic;
 background-color: green;
 }
