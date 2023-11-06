@@ -69,11 +69,10 @@ background: #8c8b8b;
     margin-right: 20px;
 }
 
-a[href*="ndex"]{
+#home{
 font-style: italic;
-background-color: green;
+background-color: green;  
 }
-
 a[href*="bout"]{
 font-style: italic;
 background-color: gold;
