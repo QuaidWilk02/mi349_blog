@@ -72,6 +72,7 @@ background: #8c8b8b;
 #home{
 font-style: italic;
 }
+
 a[href*="bout"]{
 font-style: italic;
 background-color: gold;
@@ -80,4 +81,8 @@ background-color: gold;
 a[href*="ontact"]{
 font-style: italic;
 background-color: blue;
+}
+
+.form{
+    font-style: oblique;
 }
