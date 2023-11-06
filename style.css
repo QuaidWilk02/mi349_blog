@@ -69,17 +69,17 @@ background: #8c8b8b;
     margin-right: 20px;
 }
 
-a[href="index.html"]{
+a[href*="Home"]{
 font-style: italic;
 background-color: white;
 }
 
-a[href="about.html"]{
+a[href*="bout"]{
 font-style: italic;
 background-color: gold;
 }
 
-a[href="contact.html"]{
+a[href*="ontact"]{
 font-style: italic;
 background-color: blue;
 }
