@@ -70,13 +70,13 @@ background: #8c8b8b;
 }
 
 a[href*="About"]{
-background-color: red;
+color: red;
 }
 
 a[href*="Home"]{
-    background-color: blue;
+    color: blue;
  }
 
  a[href*="Contact"]{
-    background-color: silver;
+    color: silver;
  }
