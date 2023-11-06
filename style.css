@@ -69,14 +69,6 @@ background: #8c8b8b;
     margin-right: 20px;
 }
 
-a[href*="About"]{
+a[title]{
 color: red;
 }
-
-a[href*="Home"]{
-    color: blue;
- }
-
- a[href*="Contact"]{
-    color: silver;
- }
