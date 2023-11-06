@@ -69,6 +69,17 @@ background: #8c8b8b;
     margin-right: 20px;
 }
 
-a[h1]{
-color: white;
+a[href="index.html"]{
+font-style: italic;
+background-color: white;
+}
+
+a[href="about.html"]{
+font-style: italic;
+background-color: gold;
+}
+
+a[href="contact.html"]{
+font-style: italic;
+background-color: blue;
 }
